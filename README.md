@@ -8,3 +8,4 @@ You know, you suck.
   <html>
     hey mate
   </html>
+  </body>
